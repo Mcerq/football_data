@@ -1,0 +1,381 @@
+,round,day_week,date,hour,home,goal_home,goal_away,away,public,stadium,referee,number_match
+1,1,sat,2015-08-08,12:45,Manchester Utd,1,0,Tottenham,75.261,Old Trafford,Jonathan Moss,12119
+2,1,sat,2015-08-08,15:00,Norwich City,1,3,Crystal Palace,27.036,Carrow Road,Simon Hooper,12120
+3,1,sat,2015-08-08,15:00,Leicester City,4,2,Sunderland,32.242,King Power Stadium,Lee Mason,12118
+4,1,sat,2015-08-08,15:00,Everton,2,2,Watford,39.063,Goodison Park,Mike Jones,12117
+5,1,sat,2015-08-08,15:00,Bournemouth,0,1,Aston Villa,11.155,Vitality Stadium,Mark Clattenburg,12115
+6,1,sat,2015-08-08,17:30,Chelsea,2,2,Swansea City,41.232,Stamford Bridge,Michael Oliver,12116
+7,1,dom,2015-08-09,13:30,Newcastle Utd,2,2,Southampton,49.019,St. James' Park,Craig Pawson,12122
+8,1,dom,2015-08-09,13:30,Arsenal,0,2,West Ham,59.996,Emirates Stadium,Martin Atkinson,12121
+9,1,dom,2015-08-09,16:00,Stoke City,0,1,Liverpool,27.654,Bet365 Stadium,Anthony Taylor,12123
+10,1,mon,2015-08-10,20:00,West Brom,0,3,Manchester City,24.564,The Hawthorns,Mike Dean,12124
+11,2,fri,2015-08-14,19:45,Aston Villa,0,1,Manchester Utd,42.200,Villa Park,Mike Dean,12125
+12,2,sat,2015-08-15,12:45,Southampton,0,3,Everton,30.966,St. Mary's Stadium,Michael Oliver,12126
+13,2,sat,2015-08-15,15:00,Sunderland,1,3,Norwich City,41.379,Stadium of Light,Kevin Friend,12127
+14,2,sat,2015-08-15,15:00,Watford,0,0,West Brom,20.011,Vicarage Road Stadium,Paul Tierney,12130
+15,2,sat,2015-08-15,15:00,West Ham,1,2,Leicester City,34.857,Boleyn Ground,Anthony Taylor,12131
+16,2,sat,2015-08-15,15:00,Swansea City,2,0,Newcastle Utd,20.678,Liberty Stadium,Mike Jones,12128
+17,2,sat,2015-08-15,15:00,Tottenham,2,2,Stoke City,36.004,White Hart Lane,Robert Madley,12129
+18,2,dom,2015-08-16,13:30,Crystal Palace,1,2,Arsenal,24.732,Selhurst Park,Lee Mason,12132
+19,2,dom,2015-08-16,16:00,Manchester City,3,0,Chelsea,54.331,Etihad Stadium,Martin Atkinson,12133
+20,2,mon,2015-08-17,20:00,Liverpool,1,0,Bournemouth,44.102,Anfield,Craig Pawson,12134
+21,3,sat,2015-08-22,12:45,Manchester Utd,0,0,Newcastle Utd,75.354,Old Trafford,Craig Pawson,12137
+22,3,sat,2015-08-22,15:00,Leicester City,1,1,Tottenham,31.971,King Power Stadium,Martin Atkinson,12136
+23,3,sat,2015-08-22,15:00,Crystal Palace,2,1,Aston Villa,25.295,Selhurst Park,Keith Stroud,12135
+24,3,sat,2015-08-22,15:00,Norwich City,1,1,Stoke City,26.771,Carrow Road,Mike Dean,12138
+25,3,sat,2015-08-22,15:00,West Ham,3,4,Bournemouth,34.977,Boleyn Ground,Jonathan Moss,12140
+26,3,sat,2015-08-22,15:00,Sunderland,1,1,Swansea City,39.198,Stadium of Light,Niel Swarbrick,12139
+27,3,dom,2015-08-23,13:30,West Brom,2,3,Chelsea,23.256,The Hawthorns,Mark Clattenburg,12143
+28,3,dom,2015-08-23,16:00,Watford,0,0,Southampton,20.166,Vicarage Road Stadium,Andre Marriner,12142
+29,3,dom,2015-08-23,16:00,Everton,0,2,Manchester City,38.523,Goodison Park,Anthony Taylor,12141
+30,3,mon,2015-08-24,20:00,Arsenal,0,0,Liverpool,60.080,Emirates Stadium,Michael Oliver,12144
+31,4,sat,2015-08-29,12:45,Newcastle Utd,0,1,Arsenal,50.388,St. James' Park,Andre Marriner,12150
+32,4,sat,2015-08-29,15:00,Chelsea,1,2,Crystal Palace,41.581,Stamford Bridge,Craig Pawson,12147
+33,4,sat,2015-08-29,15:00,Bournemouth,1,1,Leicester City,11.155,Vitality Stadium,Niel Swarbrick,12146
+34,4,sat,2015-08-29,15:00,Stoke City,0,1,West Brom,26.747,Bet365 Stadium,Michael Oliver,12151
+35,4,sat,2015-08-29,15:00,Liverpool,0,3,West Ham,43.680,Anfield,Kevin Friend,12148
+36,4,sat,2015-08-29,15:00,Aston Villa,2,2,Sunderland,35.399,Villa Park,Robert Madley,12145
+37,4,sat,2015-08-29,15:00,Manchester City,2,0,Watford,53.218,Etihad Stadium,Mark Clattenburg,12149
+38,4,sat,2015-08-29,17:30,Tottenham,0,0,Everton,35.865,White Hart Lane,Mike Jones,12152
+39,4,dom,2015-08-30,13:30,Southampton,3,0,Norwich City,29.573,St. Mary's Stadium,Jonathan Moss,12153
+40,4,dom,2015-08-30,16:00,Swansea City,2,1,Manchester Utd,20.828,Liberty Stadium,Martin Atkinson,12154
+41,5,sat,2015-09-12,12:45,Everton,3,1,Chelsea,38.311,Goodison Park,Andre Marriner,12157
+42,5,sat,2015-09-12,15:00,Norwich City,3,1,Bournemouth,27.018,Carrow Road,Martin Atkinson,12159
+43,5,sat,2015-09-12,15:00,Arsenal,2,0,Stoke City,59.963,Emirates Stadium,Jonathan Moss,12155
+44,5,sat,2015-09-12,15:00,Watford,1,0,Swansea City,20.057,Vicarage Road Stadium,Robert Madley,12160
+45,5,sat,2015-09-12,15:00,West Brom,0,0,Southampton,24.265,The Hawthorns,Stuart Attwell,12161
+46,5,sat,2015-09-12,15:00,Crystal Palace,0,1,Manchester City,25.167,Selhurst Park,Mike Jones,12156
+47,5,sat,2015-09-12,17:30,Manchester Utd,3,1,Liverpool,75.347,Old Trafford,Michael Oliver,12158
+48,5,dom,2015-09-13,13:30,Sunderland,0,1,Tottenham,40.303,Stadium of Light,Craig Pawson,12163
+49,5,dom,2015-09-13,16:00,Leicester City,3,2,Aston Villa,31.733,King Power Stadium,Mike Dean,12162
+50,5,mon,2015-09-14,20:00,West Ham,2,0,Newcastle Utd,34.907,Boleyn Ground,Anthony Taylor,12164
+51,6,sat,2015-09-19,12:45,Chelsea,2,0,Arsenal,41.584,Stamford Bridge,Mike Dean,12167
+52,6,sat,2015-09-19,15:00,Newcastle Utd,1,2,Watford,47.806,St. James' Park,Roger East,12169
+53,6,sat,2015-09-19,15:00,Swansea City,0,0,Everton,20.805,Liberty Stadium,Stuart Attwell,12171
+54,6,sat,2015-09-19,15:00,Aston Villa,0,1,West Brom,36.321,Villa Park,Martin Atkinson,12165
+55,6,sat,2015-09-19,15:00,Bournemouth,2,0,Sunderland,11.271,Vitality Stadium,Kevin Friend,12166
+56,6,sat,2015-09-19,15:00,Stoke City,2,2,Leicester City,27.642,Bet365 Stadium,Andre Marriner,12170
+57,6,sat,2015-09-19,17:30,Manchester City,1,2,West Ham,53.545,Etihad Stadium,Robert Madley,12168
+58,6,dom,2015-09-20,13:30,Tottenham,1,0,Crystal Palace,35.723,White Hart Lane,Michael Oliver,12174
+59,6,dom,2015-09-20,16:00,Liverpool,1,1,Norwich City,44.072,Anfield,Anthony Taylor,12172
+60,6,dom,2015-09-20,16:00,Southampton,2,3,Manchester Utd,31.588,St. Mary's Stadium,Mark Clattenburg,12173
+61,7,sat,2015-09-26,12:45,Tottenham,4,1,Manchester City,35.867,White Hart Lane,Mark Clattenburg,12181
+62,7,sat,2015-09-26,15:00,Stoke City,2,1,Bournemouth,27.742,Bet365 Stadium,Lee Mason,12180
+63,7,sat,2015-09-26,15:00,Manchester Utd,3,0,Sunderland,75.328,Old Trafford,Mike Jones,12177
+64,7,sat,2015-09-26,15:00,Leicester City,2,5,Arsenal,32.047,King Power Stadium,Craig Pawson,12175
+65,7,sat,2015-09-26,15:00,Southampton,3,1,Swansea City,30.704,St. Mary's Stadium,Roger East,12179
+66,7,sat,2015-09-26,15:00,Liverpool,3,2,Aston Villa,44.228,Anfield,Jonathan Moss,12176
+67,7,sat,2015-09-26,15:00,West Ham,2,2,Norwich City,34.857,Boleyn Ground,Mike Dean,12182
+68,7,sat,2015-09-26,17:30,Newcastle Utd,2,2,Chelsea,48.682,St. James' Park,Martin Atkinson,12178
+69,7,dom,2015-09-27,16:00,Watford,0,1,Crystal Palace,20.168,Vicarage Road Stadium,Anthony Taylor,12183
+70,7,mon,2015-09-28,20:00,West Brom,2,3,Everton,24.240,The Hawthorns,Robert Madley,12184
+71,8,sat,2015-10-03,12:45,Crystal Palace,2,0,West Brom,24.033,Selhurst Park,Jonathan Moss,12188
+72,8,sat,2015-10-03,15:00,Aston Villa,0,1,Stoke City,33.189,Villa Park,Mike Jones,12185
+73,8,sat,2015-10-03,15:00,Norwich City,1,2,Leicester City,27.067,Carrow Road,Mark Clattenburg,12190
+74,8,sat,2015-10-03,15:00,Manchester City,6,1,Newcastle Utd,53.850,Etihad Stadium,Kevin Friend,12189
+75,8,sat,2015-10-03,15:00,Sunderland,2,2,West Ham,42.932,Stadium of Light,Niel Swarbrick,12191
+76,8,sat,2015-10-03,15:00,Bournemouth,1,1,Watford,11.187,Vitality Stadium,Michael Oliver,12186
+77,8,sat,2015-10-03,17:30,Chelsea,1,3,Southampton,41.642,Stamford Bridge,Robert Madley,12187
+78,8,dom,2015-10-04,13:30,Everton,1,1,Liverpool,39.598,Goodison Park,Martin Atkinson,12193
+79,8,dom,2015-10-04,16:00,Arsenal,3,0,Manchester Utd,60.084,Emirates Stadium,Anthony Taylor,12192
+80,8,dom,2015-10-04,16:00,Swansea City,2,2,Tottenham,20.845,Liberty Stadium,Mike Dean,12194
+81,9,sat,2015-10-17,12:45,Tottenham,0,0,Liverpool,35.926,White Hart Lane,Craig Pawson,12200
+82,9,sat,2015-10-17,15:00,West Brom,1,0,Sunderland,24.225,The Hawthorns,Martin Atkinson,12202
+83,9,sat,2015-10-17,15:00,Southampton,2,2,Leicester City,30.966,St. Mary's Stadium,Paul Tierney,12199
+84,9,sat,2015-10-17,15:00,Chelsea,2,0,Aston Villa,41.596,Stamford Bridge,Roger East,12195
+85,9,sat,2015-10-17,15:00,Manchester City,5,1,Bournemouth,54.502,Etihad Stadium,Mike Dean,12198
+86,9,sat,2015-10-17,15:00,Crystal Palace,1,3,West Ham,24.812,Selhurst Park,Mark Clattenburg,12196
+87,9,sat,2015-10-17,15:00,Everton,0,3,Manchester Utd,39.553,Goodison Park,Jonathan Moss,12197
+88,9,sat,2015-10-17,17:30,Watford,0,3,Arsenal,20.721,Vicarage Road Stadium,Mike Jones,12201
+89,9,dom,2015-10-18,16:00,Newcastle Utd,6,2,Norwich City,47.006,St. James' Park,Anthony Taylor,12203
+90,9,mon,2015-10-19,20:00,Swansea City,0,1,Stoke City,20.044,Liberty Stadium,Robert Madley,12204
+91,10,sat,2015-10-24,15:00,Stoke City,0,2,Watford,27.587,Bet365 Stadium,Martin Atkinson,12209
+92,10,sat,2015-10-24,15:00,West Ham,2,1,Chelsea,34.977,Boleyn Ground,Jonathan Moss,12210
+93,10,sat,2015-10-24,15:00,Norwich City,0,1,West Brom,26.983,Carrow Road,Kevin Friend,12208
+94,10,sat,2015-10-24,15:00,Aston Villa,1,2,Swansea City,33.324,Villa Park,Niel Swarbrick,12206
+95,10,sat,2015-10-24,15:00,Leicester City,1,0,Crystal Palace,31.752,King Power Stadium,Mike Dean,12207
+96,10,sat,2015-10-24,17:30,Arsenal,2,1,Everton,59.985,Emirates Stadium,Lee Mason,12205
+97,10,dom,2015-10-25,12:00,Sunderland,3,0,Newcastle Utd,47.653,Stadium of Light,Robert Madley,12214
+98,10,dom,2015-10-25,14:05,Manchester Utd,0,0,Manchester City,75.329,Old Trafford,Mark Clattenburg,12213
+99,10,dom,2015-10-25,14:05,Bournemouth,1,5,Tottenham,11.332,Vitality Stadium,Roger East,12211
+100,10,dom,2015-10-25,16:15,Liverpool,1,1,Southampton,44.171,Anfield,Andre Marriner,12212
+101,11,sat,2015-10-31,12:45,Chelsea,1,3,Liverpool,41.577,Stamford Bridge,Mark Clattenburg,12215
+102,11,sat,2015-10-31,15:00,Crystal Palace,0,0,Manchester Utd,24.854,Selhurst Park,Mike Jones,12216
+103,11,sat,2015-10-31,15:00,Manchester City,2,1,Norwich City,53.418,Etihad Stadium,Robert Madley,12217
+104,11,sat,2015-10-31,15:00,Swansea City,0,3,Arsenal,20.937,Liberty Stadium,Kevin Friend,12219
+105,11,sat,2015-10-31,15:00,Newcastle Utd,0,0,Stoke City,47.139,St. James' Park,Roger East,12218
+106,11,sat,2015-10-31,15:00,West Brom,2,3,Leicester City,24.150,The Hawthorns,Anthony Taylor,12221
+107,11,sat,2015-10-31,15:00,Watford,2,0,West Ham,20.598,Vicarage Road Stadium,Keith Stroud,12220
+108,11,dom,2015-11-01,13:30,Everton,6,2,Sunderland,36.617,Goodison Park,Andre Marriner,12222
+109,11,dom,2015-11-01,16:00,Southampton,2,0,Bournemouth,31.229,St. Mary's Stadium,Craig Pawson,12223
+110,11,mon,2015-11-02,20:00,Tottenham,3,1,Aston Villa,34.882,White Hart Lane,Mike Dean,12224
+111,12,sat,2015-11-07,12:45,Bournemouth,0,1,Newcastle Utd,11.155,Vitality Stadium,Lee Mason,12225
+112,12,sat,2015-11-07,15:00,West Ham,1,1,Everton,34.977,Boleyn Ground,Paul Tierney,12231
+113,12,sat,2015-11-07,15:00,Sunderland,0,1,Southampton,41.781,Stadium of Light,Mike Jones,12230
+114,12,sat,2015-11-07,15:00,Leicester City,2,1,Watford,32.029,King Power Stadium,Roger East,12226
+115,12,sat,2015-11-07,15:00,Norwich City,1,0,Swansea City,27.029,Carrow Road,Mark Clattenburg,12228
+116,12,sat,2015-11-07,15:00,Manchester Utd,2,0,West Brom,75.410,Old Trafford,Mike Dean,12227
+117,12,sat,2015-11-07,17:30,Stoke City,1,0,Chelsea,27.550,Bet365 Stadium,Anthony Taylor,12229
+118,12,dom,2015-11-08,13:30,Aston Villa,0,0,Manchester City,36.757,Villa Park,Craig Pawson,12233
+119,12,dom,2015-11-08,16:00,Liverpool,1,2,Crystal Palace,44.115,Anfield,Niel Swarbrick,12234
+120,12,dom,2015-11-08,16:00,Arsenal,1,1,Tottenham,60.060,Emirates Stadium,Martin Atkinson,12232
+121,13,sat,2015-11-21,12:45,Watford,1,2,Manchester Utd,20.702,Vicarage Road Stadium,Robert Madley,12241
+122,13,sat,2015-11-21,15:00,Newcastle Utd,0,3,Leicester City,50.151,St. James' Park,Mike Jones,12238
+123,13,sat,2015-11-21,15:00,Swansea City,2,2,Bournemouth,20.878,Liberty Stadium,Andre Marriner,12240
+124,13,sat,2015-11-21,15:00,Southampton,0,1,Stoke City,30.039,St. Mary's Stadium,Lee Mason,12239
+125,13,sat,2015-11-21,15:00,Everton,4,0,Aston Villa,38.424,Goodison Park,Michael Oliver,12236
+126,13,sat,2015-11-21,15:00,Chelsea,1,0,Norwich City,41.582,Stamford Bridge,Craig Pawson,12235
+127,13,sat,2015-11-21,15:00,West Brom,2,1,Arsenal,24.343,The Hawthorns,Mark Clattenburg,12242
+128,13,sat,2015-11-21,17:30,Manchester City,1,4,Liverpool,54.444,Etihad Stadium,Jonathan Moss,12237
+129,13,dom,2015-11-22,16:00,Tottenham,4,1,West Ham,35.968,White Hart Lane,Anthony Taylor,12243
+130,13,mon,2015-11-23,20:00,Crystal Palace,0,1,Sunderland,24.361,Selhurst Park,Martin Atkinson,12244
+131,14,sat,2015-11-28,15:00,Sunderland,2,0,Stoke City,41.516,Stadium of Light,Mike Dean,12250
+132,14,sat,2015-11-28,15:00,Bournemouth,3,3,Everton,11.228,Vitality Stadium,Kevin Friend,12246
+133,14,sat,2015-11-28,15:00,Crystal Palace,5,1,Newcastle Utd,24.833,Selhurst Park,Stuart Attwell,12247
+134,14,sat,2015-11-28,15:00,Manchester City,3,1,Southampton,54.102,Etihad Stadium,Roger East,12249
+135,14,sat,2015-11-28,15:00,Aston Villa,2,3,Watford,35.057,Villa Park,Lee Mason,12245
+136,14,sat,2015-11-28,17:30,Leicester City,1,1,Manchester Utd,32.115,King Power Stadium,Craig Pawson,12248
+137,14,dom,2015-11-29,12:00,Tottenham,0,0,Chelsea,35.639,White Hart Lane,Michael Oliver,12253
+138,14,dom,2015-11-29,14:05,West Ham,1,1,West Brom,34.914,Boleyn Ground,Martin Atkinson,12254
+139,14,dom,2015-11-29,16:15,Liverpool,1,0,Swansea City,43.905,Anfield,Anthony Taylor,12251
+140,14,dom,2015-11-29,16:15,Norwich City,1,1,Arsenal,27.091,Carrow Road,Jonathan Moss,12252
+141,15,sat,2015-12-05,12:45,Stoke City,2,0,Manchester City,27.264,Bet365 Stadium,Martin Atkinson,12259
+142,15,sat,2015-12-05,15:00,Southampton,1,1,Aston Villa,29.645,St. Mary's Stadium,Anthony Taylor,12258
+143,15,sat,2015-12-05,15:00,Arsenal,3,1,Sunderland,59.937,Emirates Stadium,Robert Madley,12255
+144,15,sat,2015-12-05,15:00,West Brom,1,1,Tottenham,23.602,The Hawthorns,Jonathan Moss,12262
+145,15,sat,2015-12-05,15:00,Manchester Utd,0,0,West Ham,75.350,Old Trafford,Mark Clattenburg,12257
+146,15,sat,2015-12-05,15:00,Swansea City,0,3,Leicester City,20.836,Liberty Stadium,Michael Oliver,12260
+147,15,sat,2015-12-05,15:00,Watford,2,0,Norwich City,20.422,Vicarage Road Stadium,Mike Dean,12261
+148,15,sat,2015-12-05,17:30,Chelsea,0,1,Bournemouth,41.631,Stamford Bridge,Mike Jones,12256
+149,15,dom,2015-12-06,16:00,Newcastle Utd,2,0,Liverpool,51.273,St. James' Park,Andre Marriner,12263
+150,15,mon,2015-12-07,20:00,Everton,1,1,Crystal Palace,35.736,Goodison Park,Craig Pawson,12264
+151,16,sat,2015-12-12,12:45,Norwich City,1,1,Everton,27.027,Carrow Road,Martin Atkinson,12268
+152,16,sat,2015-12-12,15:00,West Ham,0,0,Stoke City,34.857,Boleyn Ground,Andre Marriner,12270
+153,16,sat,2015-12-12,15:00,Crystal Palace,1,0,Southampton,24.914,Selhurst Park,Mike Dean,12266
+154,16,sat,2015-12-12,15:00,Sunderland,0,1,Watford,43.989,Stadium of Light,Graham Scott,12269
+155,16,sat,2015-12-12,15:00,Manchester City,2,1,Swansea City,53.052,Etihad Stadium,Robert Madley,12267
+156,16,sat,2015-12-12,17:30,Bournemouth,2,1,Manchester Utd,11.334,Vitality Stadium,Anthony Taylor,12265
+157,16,dom,2015-12-13,13:30,Aston Villa,0,2,Arsenal,33.285,Villa Park,Kevin Friend,12271
+158,16,dom,2015-12-13,16:00,Liverpool,2,2,West Brom,44.147,Anfield,Craig Pawson,12272
+159,16,dom,2015-12-13,16:00,Tottenham,1,2,Newcastle Utd,35.768,White Hart Lane,Roger East,12273
+160,16,mon,2015-12-14,20:00,Leicester City,2,1,Chelsea,32.054,King Power Stadium,Mark Clattenburg,12274
+161,17,sat,2015-12-19,15:00,Stoke City,1,2,Crystal Palace,27.500,Bet365 Stadium,Robert Madley,12280
+162,17,sat,2015-12-19,15:00,West Brom,1,2,Bournemouth,26.127,The Hawthorns,Mike Dean,12281
+163,17,sat,2015-12-19,15:00,Southampton,0,2,Tottenham,31.636,St. Mary's Stadium,Kevin Friend,12279
+164,17,sat,2015-12-19,15:00,Everton,2,3,Leicester City,39.570,Goodison Park,Jonathan Moss,12276
+165,17,sat,2015-12-19,15:00,Chelsea,3,1,Sunderland,41.562,Stamford Bridge,Roger East,12275
+166,17,sat,2015-12-19,15:00,Manchester Utd,1,2,Norwich City,75.320,Old Trafford,Michael Oliver,12277
+167,17,sat,2015-12-19,17:30,Newcastle Utd,1,1,Aston Villa,48.234,St. James' Park,Martin Atkinson,12278
+168,17,dom,2015-12-20,13:30,Watford,3,0,Liverpool,20.707,Vicarage Road Stadium,Mark Clattenburg,12283
+169,17,dom,2015-12-20,16:00,Swansea City,0,0,West Ham,20.661,Liberty Stadium,Lee Mason,12282
+170,17,mon,2015-12-21,20:00,Arsenal,2,1,Manchester City,60.053,Emirates Stadium,Andre Marriner,12284
+171,18,sat,2015-12-26,12:45,Stoke City,2,0,Manchester Utd,27.426,Bet365 Stadium,Kevin Friend,12292
+172,18,sat,2015-12-26,15:00,Bournemouth,0,0,Crystal Palace,11.218,Vitality Stadium,Michael Oliver,12286
+173,18,sat,2015-12-26,15:00,Tottenham,3,0,Norwich City,35.198,White Hart Lane,Mike Jones,12294
+174,18,sat,2015-12-26,15:00,Manchester City,4,1,Sunderland,54.523,Etihad Stadium,Anthony Taylor,12289
+175,18,sat,2015-12-26,15:00,Swansea City,1,0,West Brom,20.789,Liberty Stadium,Roger East,12293
+176,18,sat,2015-12-26,15:00,Liverpool,1,0,Leicester City,44.123,Anfield,Martin Atkinson,12288
+177,18,sat,2015-12-26,15:00,Chelsea,2,2,Watford,41.620,Stamford Bridge,Andre Marriner,12287
+178,18,sat,2015-12-26,15:00,Aston Villa,1,1,West Ham,38.193,Villa Park,Mike Dean,12285
+179,18,sat,2015-12-26,17:30,Newcastle Utd,0,1,Everton,51.682,St. James' Park,Lee Mason,12290
+180,18,sat,2015-12-26,19:45,Southampton,4,0,Arsenal,31.669,St. Mary's Stadium,Jonathan Moss,12291
+181,19,mon,2015-12-28,15:00,Watford,1,2,Tottenham,20.730,Vicarage Road Stadium,Anthony Taylor,12300
+182,19,mon,2015-12-28,15:00,West Brom,1,0,Newcastle Utd,26.313,The Hawthorns,Mike Jones,12301
+183,19,mon,2015-12-28,15:00,Everton,3,4,Stoke City,39.340,Goodison Park,Mark Clattenburg,12297
+184,19,mon,2015-12-28,15:00,Norwich City,2,0,Aston Villa,27.071,Carrow Road,Graham Scott,12299
+185,19,mon,2015-12-28,15:00,Crystal Palace,0,0,Swansea City,23.714,Selhurst Park,Niel Swarbrick,12296
+186,19,mon,2015-12-28,17:30,West Ham,2,1,Southampton,34.977,Boleyn Ground,Michael Oliver,12302
+187,19,mon,2015-12-28,17:30,Arsenal,2,0,Bournemouth,59.983,Emirates Stadium,Roger East,12295
+188,19,mon,2015-12-28,17:30,Manchester Utd,0,0,Chelsea,75.275,Old Trafford,Martin Atkinson,12298
+189,19,tue,2015-12-29,19:45,Leicester City,0,0,Manchester City,32.072,King Power Stadium,Craig Pawson,12303
+190,19,wed,2015-12-30,19:45,Sunderland,0,1,Liverpool,45.765,Stadium of Light,Kevin Friend,12304
+191,20,sat,2016-01-02,12:45,West Ham,2,0,Liverpool,34.977,Boleyn Ground,Robert Madley,12312
+192,20,sat,2016-01-02,15:00,Norwich City,1,0,Southampton,27.022,Carrow Road,Mark Clattenburg,12308
+193,20,sat,2016-01-02,15:00,Manchester Utd,2,1,Swansea City,75.415,Old Trafford,Jonathan Moss,12307
+194,20,sat,2016-01-02,15:00,Arsenal,1,0,Newcastle Utd,59.257,Emirates Stadium,Anthony Taylor,12305
+195,20,sat,2016-01-02,15:00,West Brom,2,1,Stoke City,23.218,The Hawthorns,Lee Mason,12311
+196,20,sat,2016-01-02,15:00,Sunderland,3,1,Aston Villa,41.535,Stadium of Light,Craig Pawson,12309
+197,20,sat,2016-01-02,15:00,Leicester City,0,0,Bournemouth,32.006,King Power Stadium,Andre Marriner,12306
+198,20,sat,2016-01-02,17:30,Watford,1,2,Manchester City,20.676,Vicarage Road Stadium,Martin Atkinson,12310
+199,20,dom,2016-01-03,13:30,Crystal Palace,0,3,Chelsea,24.854,Selhurst Park,Kevin Friend,12313
+200,20,dom,2016-01-03,16:00,Everton,1,1,Tottenham,38.482,Goodison Park,Michael Oliver,12314
+201,21,tue,2016-01-12,19:45,Aston Villa,1,0,Crystal Palace,28.245,Villa Park,Mark Clattenburg,12315
+202,21,tue,2016-01-12,19:45,Newcastle Utd,3,3,Manchester Utd,49.673,St. James' Park,Mike Dean,12317
+203,21,tue,2016-01-12,19:45,Bournemouth,1,3,West Ham,11.071,Vitality Stadium,Martin Atkinson,12316
+204,21,wed,2016-01-13,19:45,Swansea City,2,4,Sunderland,20.140,Liberty Stadium,Graham Scott,12323
+205,21,wed,2016-01-13,19:45,Stoke City,3,1,Norwich City,27.274,Bet365 Stadium,Niel Swarbrick,12322
+206,21,wed,2016-01-13,19:45,Southampton,2,0,Watford,28.399,St. Mary's Stadium,Craig Pawson,12321
+207,21,wed,2016-01-13,19:45,Chelsea,2,2,West Brom,40.945,Stamford Bridge,Anthony Taylor,12318
+208,21,wed,2016-01-13,19:45,Manchester City,0,0,Everton,53.796,Etihad Stadium,Roger East,12320
+209,21,wed,2016-01-13,20:00,Tottenham,0,1,Leicester City,35.850,White Hart Lane,Lee Mason,12324
+210,21,wed,2016-01-13,20:00,Liverpool,3,3,Arsenal,44.109,Anfield,Mike Jones,12319
+211,22,sat,2016-01-16,12:45,Tottenham,4,1,Sunderland,35.854,White Hart Lane,Mike Dean,12331
+212,22,sat,2016-01-16,15:00,Bournemouth,3,0,Norwich City,11.065,Vitality Stadium,Robert Madley,12326
+213,22,sat,2016-01-16,15:00,Southampton,3,0,West Brom,29.622,St. Mary's Stadium,Martin Atkinson,12330
+214,22,sat,2016-01-16,15:00,Chelsea,3,3,Everton,41.633,Stamford Bridge,Mike Jones,12327
+215,22,sat,2016-01-16,15:00,Newcastle Utd,2,1,West Ham,50.031,St. James' Park,Niel Swarbrick,12329
+216,22,sat,2016-01-16,15:00,Manchester City,4,0,Crystal Palace,53.983,Etihad Stadium,Jonathan Moss,12328
+217,22,sat,2016-01-16,17:30,Aston Villa,1,1,Leicester City,32.763,Villa Park,Roger East,12325
+218,22,dom,2016-01-17,14:05,Liverpool,0,1,Manchester Utd,43.865,Anfield,Mark Clattenburg,12332
+219,22,dom,2016-01-17,16:15,Stoke City,0,0,Arsenal,27.683,Bet365 Stadium,Craig Pawson,12333
+220,22,mon,2016-01-18,20:00,Swansea City,1,0,Watford,20.430,Liberty Stadium,Michael Oliver,12334
+221,23,sat,2016-01-23,12:45,Norwich City,4,5,Liverpool,27.108,Carrow Road,Lee Mason,12338
+222,23,sat,2016-01-23,15:00,Manchester Utd,0,1,Southampton,75.408,Old Trafford,Mike Jones,12337
+223,23,sat,2016-01-23,15:00,Watford,2,1,Newcastle Utd,20.611,Vicarage Road Stadium,Andre Marriner,12340
+224,23,sat,2016-01-23,15:00,Leicester City,3,0,Stoke City,32.018,King Power Stadium,Mike Dean,12336
+225,23,sat,2016-01-23,15:00,Sunderland,1,1,Bournemouth,41.367,Stadium of Light,Roger East,12339
+226,23,sat,2016-01-23,15:00,West Brom,0,0,Aston Villa,26.165,The Hawthorns,Robert Madley,12341
+227,23,sat,2016-01-23,15:00,Crystal Palace,1,3,Tottenham,28.467,Selhurst Park,Martin Atkinson,12335
+228,23,sat,2016-01-23,17:30,West Ham,2,2,Manchester City,34.977,Boleyn Ground,Craig Pawson,12342
+229,23,dom,2016-01-24,13:30,Everton,1,2,Swansea City,36.908,Goodison Park,Anthony Taylor,12344
+230,23,dom,2016-01-24,16:00,Arsenal,0,1,Chelsea,60.072,Emirates Stadium,Mark Clattenburg,12343
+231,24,tue,2016-02-02,19:45,Sunderland,0,1,Manchester City,38.852,Stadium of Light,Stuart Attwell,12350
+232,24,tue,2016-02-02,19:45,West Ham,2,0,Aston Villa,34.914,Boleyn Ground,Jonathan Moss,12352
+233,24,tue,2016-02-02,19:45,Leicester City,2,0,Liverpool,32.121,King Power Stadium,Andre Marriner,12347
+234,24,tue,2016-02-02,19:45,Arsenal,0,0,Southampton,60.044,Emirates Stadium,Lee Mason,12345
+235,24,tue,2016-02-02,19:45,Norwich City,0,3,Tottenham,27.067,Carrow Road,Kevin Friend,12349
+236,24,tue,2016-02-02,20:00,Manchester Utd,3,0,Stoke City,75.234,Old Trafford,Roger East,12348
+237,24,tue,2016-02-02,20:00,Crystal Palace,1,2,Bournemouth,24.855,Selhurst Park,Mike Jones,12346
+238,24,tue,2016-02-02,20:00,West Brom,1,1,Swansea City,22.062,The Hawthorns,Niel Swarbrick,12351
+239,24,wed,2016-02-03,19:45,Watford,0,0,Chelsea,20.910,Vicarage Road Stadium,Mike Dean,12354
+240,24,wed,2016-02-03,19:45,Everton,3,0,Newcastle Utd,36.061,Goodison Park,Craig Pawson,12353
+241,25,sat,2016-02-06,12:45,Manchester City,1,3,Leicester City,54.693,Etihad Stadium,Anthony Taylor,12357
+242,25,sat,2016-02-06,15:00,Stoke City,0,3,Everton,27.733,Bet365 Stadium,Andre Marriner,12360
+243,25,sat,2016-02-06,15:00,Swansea City,1,1,Crystal Palace,20.492,Liberty Stadium,Mike Dean,12361
+244,25,sat,2016-02-06,15:00,Liverpool,2,2,Sunderland,44.179,Anfield,Robert Madley,12356
+245,25,sat,2016-02-06,15:00,Tottenham,1,0,Watford,35.997,White Hart Lane,Roger East,12362
+246,25,sat,2016-02-06,15:00,Newcastle Utd,1,0,West Brom,50.152,St. James' Park,Lee Mason,12358
+247,25,sat,2016-02-06,15:00,Aston Villa,2,0,Norwich City,32.472,Villa Park,Martin Atkinson,12355
+248,25,sat,2016-02-06,17:30,Southampton,1,0,West Ham,29.161,St. Mary's Stadium,Mark Clattenburg,12359
+249,25,dom,2016-02-07,13:30,Bournemouth,0,2,Arsenal,11.357,Vitality Stadium,Kevin Friend,12363
+250,25,dom,2016-02-07,16:00,Chelsea,1,1,Manchester Utd,41.434,Stamford Bridge,Michael Oliver,12364
+251,26,sat,2016-02-13,12:45,Sunderland,2,1,Manchester Utd,41.687,Stadium of Light,Andre Marriner,12370
+252,26,sat,2016-02-13,15:00,Swansea City,0,1,Southampton,20.890,Liberty Stadium,Jonathan Moss,12371
+253,26,sat,2016-02-13,15:00,Crystal Palace,1,2,Watford,24.564,Selhurst Park,Robert Madley,12367
+254,26,sat,2016-02-13,15:00,Everton,0,1,West Brom,38.103,Goodison Park,Michael Oliver,12368
+255,26,sat,2016-02-13,15:00,Norwich City,2,2,West Ham,27.101,Carrow Road,Mike Jones,12369
+256,26,sat,2016-02-13,15:00,Bournemouth,1,3,Stoke City,10.863,Vitality Stadium,Graham Scott,12365
+257,26,sat,2016-02-13,17:30,Chelsea,5,1,Newcastle Utd,41.622,Stamford Bridge,Roger East,12366
+258,26,dom,2016-02-14,12:00,Arsenal,2,1,Leicester City,60.009,Emirates Stadium,Martin Atkinson,12372
+259,26,dom,2016-02-14,14:05,Aston Villa,0,6,Liverpool,35.798,Villa Park,Niel Swarbrick,12373
+260,26,dom,2016-02-14,16:15,Manchester City,1,2,Tottenham,54.551,Etihad Stadium,Mark Clattenburg,12374
+261,27,sat,2016-02-27,12:45,West Ham,1,0,Sunderland,34.946,Boleyn Ground,Mike Dean,12380
+262,27,sat,2016-02-27,15:00,Leicester City,1,0,Norwich City,32.114,King Power Stadium,Niel Swarbrick,12375
+263,27,sat,2016-02-27,15:00,Stoke City,2,1,Aston Villa,27.703,Bet365 Stadium,Kevin Friend,12377
+264,27,sat,2016-02-27,15:00,Watford,0,0,Bournemouth,20.831,Vicarage Road Stadium,Anthony Taylor,12378
+265,27,sat,2016-02-27,15:00,Southampton,1,2,Chelsea,31.688,St. Mary's Stadium,Martin Atkinson,12376
+266,27,sat,2016-02-27,17:30,West Brom,3,2,Crystal Palace,24.806,The Hawthorns,Jonathan Moss,12379
+267,27,dom,2016-02-28,14:05,Manchester Utd,3,2,Arsenal,75.329,Old Trafford,Craig Pawson,12381
+268,27,dom,2016-02-28,14:05,Tottenham,2,1,Swansea City,35.922,White Hart Lane,Mike Jones,12382
+269,28,tue,2016-03-01,19:45,Leicester City,2,2,West Brom,32.018,King Power Stadium,Mark Clattenburg,12385
+270,28,tue,2016-03-01,19:45,Norwich City,1,2,Chelsea,27.091,Carrow Road,Lee Mason,12386
+271,28,tue,2016-03-01,19:45,Aston Villa,1,3,Everton,29.755,Villa Park,Roger East,12383
+272,28,tue,2016-03-01,19:45,Bournemouth,2,0,Southampton,11.033,Vitality Stadium,Mike Dean,12384
+273,28,tue,2016-03-01,19:45,Sunderland,2,2,Crystal Palace,39.795,Stadium of Light,Anthony Taylor,12387
+274,28,wed,2016-03-02,19:45,Stoke City,1,0,Newcastle Utd,27.331,Bet365 Stadium,Niel Swarbrick,12391
+275,28,wed,2016-03-02,19:45,West Ham,1,0,Tottenham,34.977,Boleyn Ground,Andre Marriner,12392
+276,28,wed,2016-03-02,19:45,Arsenal,1,2,Swansea City,59.905,Emirates Stadium,Robert Madley,12388
+277,28,wed,2016-03-02,20:00,Manchester Utd,1,0,Watford,75.272,Old Trafford,Mike Jones,12390
+278,28,wed,2016-03-02,20:00,Liverpool,3,0,Manchester City,43.597,Anfield,Martin Atkinson,12389
+279,29,sat,2016-03-05,12:45,Tottenham,2,2,Arsenal,35.762,White Hart Lane,Michael Oliver,12399
+280,29,sat,2016-03-05,15:00,Swansea City,1,0,Norwich City,20.929,Liberty Stadium,Craig Pawson,12398
+281,29,sat,2016-03-05,15:00,Manchester City,4,0,Aston Villa,53.892,Etihad Stadium,Lee Mason,12395
+282,29,sat,2016-03-05,15:00,Everton,2,3,West Ham,39.000,Goodison Park,Anthony Taylor,12394
+283,29,sat,2016-03-05,15:00,Newcastle Utd,1,3,Bournemouth,52.107,St. James' Park,Paul Tierney,12396
+284,29,sat,2016-03-05,15:00,Southampton,1,1,Sunderland,31.458,St. Mary's Stadium,Niel Swarbrick,12397
+285,29,sat,2016-03-05,15:00,Chelsea,1,1,Stoke City,41.381,Stamford Bridge,Mark Clattenburg,12393
+286,29,sat,2016-03-05,17:30,Watford,0,1,Leicester City,20.884,Vicarage Road Stadium,Jonathan Moss,12400
+287,29,dom,2016-03-06,13:30,Crystal Palace,1,2,Liverpool,24.709,Selhurst Park,Andre Marriner,12401
+288,29,dom,2016-03-06,16:00,West Brom,1,0,Manchester Utd,24.878,The Hawthorns,Mike Dean,12402
+289,30,sat,2016-03-12,12:45,Norwich City,0,0,Manchester City,26.323,Carrow Road,Jonathan Moss,12404
+290,30,sat,2016-03-12,15:00,Bournemouth,3,2,Swansea City,11.179,Vitality Stadium,Roger East,12406
+291,30,sat,2016-03-12,15:00,Stoke City,1,2,Southampton,27.833,Bet365 Stadium,Lee Mason,12405
+292,30,dom,2016-03-13,16:00,Aston Villa,0,2,Tottenham,32.393,Villa Park,Anthony Taylor,12406
+293,30,mon,2016-03-14,20:00,Leicester City,1,0,Newcastle Utd,31.824,King Power Stadium,Craig Pawson,12407
+294,31,sat,2016-03-19,12:45,Everton,0,2,Arsenal,39.270,Goodison Park,Mark Clattenburg,12410
+295,31,sat,2016-03-19,15:00,Watford,1,2,Stoke City,20.759,Vicarage Road Stadium,Craig Pawson,12412
+296,31,sat,2016-03-19,15:00,Chelsea,2,2,West Ham,41.623,Stamford Bridge,Robert Madley,12408
+297,31,sat,2016-03-19,15:00,Crystal Palace,0,1,Leicester City,25.041,Selhurst Park,Mike Jones,12409
+298,31,sat,2016-03-19,15:00,West Brom,0,1,Norwich City,25.039,The Hawthorns,Anthony Taylor,12413
+299,31,sat,2016-03-19,17:30,Swansea City,1,0,Aston Villa,20.454,Liberty Stadium,Mike Dean,12411
+300,31,dom,2016-03-20,13:30,Newcastle Utd,1,1,Sunderland,52.311,St. James' Park,Martin Atkinson,12415
+301,31,dom,2016-03-20,13:30,Southampton,3,2,Liverpool,31.596,St. Mary's Stadium,Roger East,12416
+302,31,dom,2016-03-20,16:00,Tottenham,3,0,Bournemouth,36.084,White Hart Lane,Niel Swarbrick,12417
+303,31,dom,2016-03-20,16:00,Manchester City,0,1,Manchester Utd,54.557,Etihad Stadium,Michael Oliver,12414
+304,32,sat,2016-04-02,12:45,Aston Villa,0,4,Chelsea,31.120,Villa Park,Niel Swarbrick,12419
+305,32,sat,2016-04-02,15:00,Arsenal,4,0,Watford,59.981,Emirates Stadium,Anthony Taylor,12418
+306,32,sat,2016-04-02,15:00,Norwich City,3,2,Newcastle Utd,27.137,Carrow Road,Mike Dean,12422
+307,32,sat,2016-04-02,15:00,Stoke City,2,2,Swansea City,27.649,Bet365 Stadium,Martin Atkinson,12423
+308,32,sat,2016-04-02,15:00,West Ham,2,2,Crystal Palace,34.857,Boleyn Ground,Mark Clattenburg,12425
+309,32,sat,2016-04-02,15:00,Sunderland,0,0,West Brom,45.144,Stadium of Light,Roger East,12424
+310,32,sat,2016-04-02,15:00,Bournemouth,0,4,Manchester City,11.192,Vitality Stadium,Robert Madley,12420
+311,32,sat,2016-04-02,17:30,Liverpool,1,1,Tottenham,44.062,Anfield,Jonathan Moss,12421
+312,32,dom,2016-04-03,13:30,Leicester City,1,0,Southampton,32.071,King Power Stadium,Michael Oliver,12426
+313,32,dom,2016-04-03,16:00,Manchester Utd,1,0,Everton,75.341,Old Trafford,Andre Marriner,12427
+314,33,sat,2016-04-09,12:45,West Ham,3,3,Arsenal,34.977,Boleyn Ground,Craig Pawson,12434
+315,33,sat,2016-04-09,15:00,Crystal Palace,1,0,Norwich City,24.960,Selhurst Park,Michael Oliver,12429
+316,33,sat,2016-04-09,15:00,Swansea City,1,0,Chelsea,20.966,Liberty Stadium,Andre Marriner,12432
+317,33,sat,2016-04-09,15:00,Southampton,3,1,Newcastle Utd,31.542,St. Mary's Stadium,Robert Madley,12431
+318,33,sat,2016-04-09,15:00,Aston Villa,1,2,Bournemouth,31.057,Villa Park,Martin Atkinson,12428
+319,33,sat,2016-04-09,15:00,Watford,1,1,Everton,20.663,Vicarage Road Stadium,Kevin Friend,12433
+320,33,sat,2016-04-09,17:30,Manchester City,2,1,West Brom,53.920,Etihad Stadium,Mike Jones,12430
+321,33,dom,2016-04-10,13:30,Sunderland,0,2,Leicester City,46.531,Stadium of Light,Anthony Taylor,12436
+322,33,dom,2016-04-10,16:00,Tottenham,3,0,Manchester Utd,35.761,White Hart Lane,Mike Dean,12437
+323,33,dom,2016-04-10,16:00,Liverpool,4,1,Stoke City,43.688,Anfield,Mark Clattenburg,12435
+324,35,wed,2016-04-13,20:00,Crystal Palace,0,0,Everton,23.528,Selhurst Park,Mike Jones,12438
+325,34,sat,2016-04-16,12:45,Norwich City,0,3,Sunderland,27.117,Carrow Road,Andre Marriner,12443
+326,34,sat,2016-04-16,15:00,Newcastle Utd,3,0,Swansea City,48.949,St. James' Park,Lee Mason,12442
+327,34,sat,2016-04-16,15:00,Everton,1,1,Southampton,36.761,Goodison Park,Craig Pawson,12440
+328,34,sat,2016-04-16,15:00,Manchester Utd,1,0,Aston Villa,75.411,Old Trafford,Kevin Friend,12441
+329,34,sat,2016-04-16,15:00,West Brom,0,1,Watford,25.515,The Hawthorns,Michael Oliver,12444
+330,34,sat,2016-04-16,17:30,Chelsea,0,3,Manchester City,41.212,Stamford Bridge,Mike Dean,12439
+331,34,dom,2016-04-17,13:30,Bournemouth,1,2,Liverpool,11.386,Vitality Stadium,Mike Jones,12446
+332,34,dom,2016-04-17,13:30,Leicester City,2,2,West Ham,32.104,King Power Stadium,Jonathan Moss,12447
+333,34,dom,2016-04-17,16:00,Arsenal,1,1,Crystal Palace,59.961,Emirates Stadium,Roger East,12445
+334,34,mon,2016-04-18,20:00,Stoke City,0,4,Tottenham,27.442,Bet365 Stadium,Niel Swarbrick,12448
+335,27,tue,2016-04-19,19:45,Newcastle Utd,1,1,Manchester City,46.424,St. James' Park,Kevin Friend,12449
+336,30,wed,2016-04-20,19:45,West Ham,3,1,Watford,34.857,Boleyn Ground,Mike Dean,12452
+337,27,wed,2016-04-20,20:00,Liverpool,4,0,Everton,43.854,Anfield,Robert Madley,12450
+338,30,wed,2016-04-20,20:00,Manchester Utd,2,0,Crystal Palace,75.277,Old Trafford,Lee Mason,12451
+339,30,thu,2016-04-21,19:45,Arsenal,2,0,West Brom,59.568,Emirates Stadium,Jonathan Moss,12453
+340,35,sat,2016-04-23,12:45,Manchester City,4,0,Stoke City,53.974,Etihad Stadium,Robert Madley,12457
+341,35,sat,2016-04-23,15:00,Aston Villa,2,4,Southampton,29.729,Villa Park,Niel Swarbrick,12454
+342,35,sat,2016-04-23,15:00,Bournemouth,1,4,Chelsea,11.365,Vitality Stadium,Roger East,12455
+343,35,sat,2016-04-23,15:00,Liverpool,2,2,Newcastle Utd,43.837,Anfield,Andre Marriner,12456
+344,35,dom,2016-04-24,14:05,Sunderland,0,0,Arsenal,45.420,Stadium of Light,Mike Dean,12459
+345,35,dom,2016-04-24,16:15,Leicester City,4,0,Swansea City,31.962,King Power Stadium,Mark Clattenburg,12458
+346,35,mon,2016-04-25,20:00,Tottenham,1,1,West Brom,35.923,White Hart Lane,Mike Jones,12460
+347,36,sat,2016-04-30,15:00,Everton,2,1,Bournemouth,38.345,Goodison Park,Niel Swarbrick,12417
+348,36,sat,2016-04-30,15:00,Watford,3,2,Aston Villa,20.653,Vicarage Road Stadium,Anthony Taylor,12465
+349,36,sat,2016-04-30,15:00,West Brom,0,3,West Ham,25.031,The Hawthorns,Lee Mason,12466
+350,36,sat,2016-04-30,15:00,Stoke City,1,1,Sunderland,27.667,Bet365 Stadium,Craig Pawson,12464
+351,36,sat,2016-04-30,15:00,Newcastle Utd,1,0,Crystal Palace,52.107,St. James' Park,Mike Dean,12463
+352,36,sat,2016-04-30,17:30,Arsenal,1,0,Norwich City,59.989,Emirates Stadium,Mike Jones,12461
+353,36,dom,2016-05-01,12:00,Swansea City,3,1,Liverpool,20.972,Liberty Stadium,Roger East,12469
+354,36,dom,2016-05-01,14:05,Manchester Utd,1,1,Leicester City,75.275,Old Trafford,Michael Oliver,12467
+355,36,dom,2016-05-01,16:30,Southampton,4,2,Manchester City,31.472,St. Mary's Stadium,Andre Marriner,12468
+356,36,mon,2016-05-02,20:00,Chelsea,2,2,Tottenham,41.545,Stamford Bridge,Mark Clattenburg,12470
+357,37,sat,2016-05-07,12:45,Norwich City,0,1,Manchester Utd,27.132,Carrow Road,Craig Pawson,12475
+358,37,sat,2016-05-07,15:00,Bournemouth,1,1,West Brom,11.040,Vitality Stadium,Mark Clattenburg,12472
+359,37,sat,2016-05-07,15:00,Sunderland,3,2,Chelsea,47.050,Stadium of Light,Mike Jones,12476
+360,37,sat,2016-05-07,15:00,Aston Villa,0,0,Newcastle Utd,33.055,Villa Park,Robert Madley,12471
+361,37,sat,2016-05-07,15:00,West Ham,1,4,Swansea City,34.907,Boleyn Ground,Michael Oliver,12477
+362,37,sat,2016-05-07,15:00,Crystal Palace,2,1,Stoke City,23.990,Selhurst Park,Kevin Friend,12473
+363,37,sat,2016-05-07,17:30,Leicester City,3,1,Everton,32.140,King Power Stadium,Andre Marriner,12474
+364,37,dom,2016-05-08,13:30,Tottenham,1,2,Southampton,35.748,White Hart Lane,Jonathan Moss,12480
+365,37,dom,2016-05-08,16:00,Liverpool,2,0,Watford,43.341,Anfield,Lee Mason,12478
+366,37,dom,2016-05-08,16:00,Manchester City,2,2,Arsenal,54.425,Etihad Stadium,Anthony Taylor,12479
+367,35,tue,2016-05-10,20:30,West Ham,3,2,Manchester Utd,34.602,Boleyn Ground,Mike Dean,12481
+368,30,wed,2016-05-11,19:45,Sunderland,3,0,Everton,46.454,Stadium of Light,Anthony Taylor,12484
+369,35,wed,2016-05-11,19:45,Norwich City,4,2,Watford,26.279,Carrow Road,Roger East,12483
+370,30,wed,2016-05-11,20:00,Liverpool,1,1,Chelsea,43.210,Anfield,Michael Oliver,12482
+371,38,dom,2016-05-15,15:00,Southampton,4,1,Crystal Palace,31.313,St. Mary's Stadium,Michael Oliver,12489
+372,38,dom,2016-05-15,15:00,Newcastle Utd,5,1,Tottenham,52.183,St. James' Park,Anthony Taylor,12488
+373,38,dom,2016-05-15,15:00,Swansea City,1,1,Manchester City,20.934,Liberty Stadium,Mike Dean,12491
+374,38,dom,2016-05-15,15:00,West Brom,1,1,Liverpool,26.196,The Hawthorns,Robert Madley,12493
+375,38,dom,2016-05-15,15:00,Watford,2,2,Sunderland,21.012,Vicarage Road Stadium,Kevin Friend,12492
+376,38,dom,2016-05-15,15:00,Chelsea,1,1,Leicester City,41.494,Stamford Bridge,Craig Pawson,12486
+377,38,dom,2016-05-15,15:00,Everton,3,0,Norwich City,36.691,Goodison Park,Lee Mason,12487
+378,38,dom,2016-05-15,15:00,Arsenal,4,0,Aston Villa,60.007,Emirates Stadium,Mark Clattenburg,12485
+379,38,dom,2016-05-15,15:00,Stoke City,2,1,West Ham,27.721,Bet365 Stadium,Mike Jones,12490
+380,38,tue,2016-05-17,20:00,Manchester Utd,3,1,Bournemouth,74.363,Old Trafford,Jonathan Moss,12494
